@@ -1,0 +1,5 @@
+print(5 / 3)
+print(5 % 3)
+print(123 % 44)
+print(334 % 13)
+print(652 % 4)
