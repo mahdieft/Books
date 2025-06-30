@@ -1,0 +1,1 @@
+dairy_section = ['Milk', 'Cheese', 'Butter', 'Yogurt']
