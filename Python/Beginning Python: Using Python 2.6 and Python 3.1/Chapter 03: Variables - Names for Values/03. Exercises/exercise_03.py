@@ -1,0 +1,1 @@
+milk_expiration = (9, 12, 2025)
