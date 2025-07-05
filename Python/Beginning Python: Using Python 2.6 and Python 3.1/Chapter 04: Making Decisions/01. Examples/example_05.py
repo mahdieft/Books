@@ -1,0 +1,5 @@
+print("Pumpkin" == "pumpkin")
+print("Pumpkin".lower() == "pumpkin".lower())
+print("Pumpkin".lower())
+print("Pumpkin".upper() == "pumpkin".upper())
+print("pumpkin".upper())
