@@ -1,0 +1,3 @@
+<?php
+
+$writer = new ShopProductWriter();

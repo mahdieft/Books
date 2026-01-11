@@ -1,0 +1,3 @@
+<?php
+
+$cat = Prodcat::getRand();
