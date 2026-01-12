@@ -1,0 +1,20 @@
+<?php
+
+class Person
+{
+    private int $id = 0;
+
+    public function __construct(private string $name, private int $age)
+    {
+    }
+
+    public function setId(int $id): void
+    {
+        $this->id = $id;
+    }
+
+    public function __clone(): void
+    {
+        $this->id = 0;
+    }
+}
